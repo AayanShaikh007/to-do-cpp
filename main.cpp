@@ -26,7 +26,7 @@ int main() {
             break;
         }
         else if (input == "a") {
-            cout << "Adding a new number" << endl;
+            cout << "Adding a new number" < < endl;
         }
     }
 
