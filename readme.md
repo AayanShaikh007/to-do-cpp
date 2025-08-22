@@ -1,5 +1,5 @@
 # To-do Task manager
-This is intended to be used as a to-do list that you can use to organize small specific tasks you need to accompolish during a single work session. 
+This is a to-do list productivity app where you can make to-do items, give them a description (something i cant do on my to-do app on my phone), and optionally set a time when you want the task to be finished by. At the time when the task is supposed to be over, an beep will play to alert you that you should be done "x" task by now. This is intended to be used as a to-do list that you can use to organize small specific tasks you need to accompolish during a single work session. 
 
 For this project, I decided to make something with a language I had never used for a project before. I chose C++ because it was a language that I've always wanted to learn/make stuff with, and I never really got the chance to use it before. 
 
