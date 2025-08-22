@@ -1,4 +1,5 @@
-# Product
+# To-do Task manager
+This is intended to be used as a to-do list that you can use to organize small specific tasks you need to accompolish during a single work session. 
 
 For this project, I decided to make something with a language I had never used for a project before. I chose C++ because it was a language that I've always wanted to learn/make stuff with, and I never really got the chance to use it before. 
 
